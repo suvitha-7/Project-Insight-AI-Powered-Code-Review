@@ -79,7 +79,7 @@ async function readAllFiles(paths) {
 
 
 
-const apiKey = "AIzaSyBNTGpOORFly1qJUdAOm6IuoVQz29__UXM";
+const apiKey = "YOUR_API_KEY";
 const genAI = new GoogleGenerativeAI(apiKey);
 
 
